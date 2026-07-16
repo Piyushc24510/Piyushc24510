@@ -12,9 +12,6 @@
 ![](https://streak-stats.demolab.com/?user=Piyushc24510&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyushc24510&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Piyushc24510&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Piyushc24510&icon=0&color=5)](https://visitcount.itsvg.in)
 
